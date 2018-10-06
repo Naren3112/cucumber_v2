@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="423" started-at="2018-10-03T18:12:54Z" finished-at="2018-10-03T18:12:55Z">
+  <suite name="Suite" duration-ms="809" started-at="2018-10-06T17:21:16Z" finished-at="2018-10-06T17:21:17Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="423" started-at="2018-10-03T18:12:54Z" finished-at="2018-10-03T18:12:55Z">
+    <test name="Test" duration-ms="809" started-at="2018-10-06T17:21:16Z" finished-at="2018-10-06T17:21:17Z">
       <class name="featureFileSuites.LoginSuiteRunner">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:featureFileSuites.LoginSuiteRunner@685cb137]" name="beforeClass" is-config="true" duration-ms="208" started-at="2018-10-03T23:42:54Z" finished-at="2018-10-03T23:42:55Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:featureFileSuites.LoginSuiteRunner@604ed9f0]" name="beforeClass" is-config="true" duration-ms="260" started-at="2018-10-06T22:51:16Z" finished-at="2018-10-06T22:51:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:featureFileSuites.LoginSuiteRunner@685cb137]" name="feature" duration-ms="122" started-at="2018-10-03T23:42:55Z" data-provider="features" finished-at="2018-10-03T23:42:55Z">
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:featureFileSuites.LoginSuiteRunner@604ed9f0]" name="feature" duration-ms="439" started-at="2018-10-06T22:51:16Z" data-provider="features" finished-at="2018-10-06T22:51:17Z">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:featureFileSuites.LoginSuiteRunner@685cb137]" name="afterClass" is-config="true" duration-ms="9" started-at="2018-10-03T23:42:55Z" finished-at="2018-10-03T23:42:55Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:featureFileSuites.LoginSuiteRunner@604ed9f0]" name="afterClass" is-config="true" duration-ms="22" started-at="2018-10-06T22:51:17Z" finished-at="2018-10-06T22:51:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
